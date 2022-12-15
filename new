@@ -1,0 +1,54 @@
+<>
+      <div classname="container">
+        <div classname="row">
+          <div classname="col-12">
+            <h1 classname="text-center">WEB SCRAPER</h1>
+          </div>
+        </div>
+        <div classname="row">
+          <div class="search-box">
+            <input
+              class="search-txt"
+              type="text"
+              name=""
+              placeholder="Type to search"
+            />
+            <a class="search-btn" href="#">
+              <i class="fas fa-search"></i>
+            </a>
+          </div>
+        </div>
+        <div classname="row">
+          <div classname="col-6">
+            <div class="card" style={{ width: "18rem" }}>
+              <img class="card-img-top" src="..." alt="Card image cap" />
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="btn btn-primary">
+                  Go somewhere
+                </a>
+              </div>
+            </div>
+          </div>
+          <div classname="col-6">
+            <div class="card" style={{ width: "18rem" }}>
+              <img class="card-img-top" src="..." alt="Card image cap" />
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="btn btn-primary">
+                  Go somewhere
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
